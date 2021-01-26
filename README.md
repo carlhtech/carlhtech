@@ -8,7 +8,7 @@ I've spent the majority of my career as a QA engineer and am currently working o
 Addicted to self-progression and learning, I can always be found on something like Codecademy or Pluralsight trying something new. Below are a few snapshots of the products you'll find in my repos. AR has ben a passion of mine since I came across ARkit in Unity a few years ago.
 
 
-(/images/BWC.png)
+(BWC.png)
 
 
 ## My Tech Stack :computer:
