@@ -14,7 +14,7 @@ Addicted to self-progression and learning, I can always be found on something li
 
 
 ## What I Am Learning :books:
-<img src="https://img.shields.io/badge/-Flutter-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Django-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-MongoDB-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Tensorflow-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
 
 
 
