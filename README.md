@@ -9,7 +9,7 @@ Addicted to self-progression and learning, I can always be found on something li
 
 <br/>
 
-<img src="Images/BWC.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Quizland.png" width="164"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="Images/WWAR.png" width="200"/>
+<img src="Images/BWC.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Quizland.png" width="164"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/WWAR.png" width="200"/>
 
 <br/>
 
